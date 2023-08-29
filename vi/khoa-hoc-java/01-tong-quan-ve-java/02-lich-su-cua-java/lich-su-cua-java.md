@@ -59,7 +59,7 @@ Theo James Gosling, "Java là một trong những lựa chọn hàng đầu cùn
 
 ## Lịch sử phiên bản Java
 
-hiều phiên bản java đã được phát hành cho đến nay. Bản phát hành ổn định hiện tại của Java là Java SE 10.
+Nhiều phiên bản java đã được phát hành cho đến nay. Bản phát hành ổn định hiện tại của Java là Java SE 10.
 
 1\) JDK Alpha and Beta (1995)  
 2\) JDK 1.0 (23rd Jan 1996)  
