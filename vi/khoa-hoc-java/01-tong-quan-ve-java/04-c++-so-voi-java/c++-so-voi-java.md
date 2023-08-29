@@ -29,7 +29,7 @@ Ghi chú:
 
 File: main.cpp
 
-```c++
+```cpp
 #include <iostream>
 using namespace std;
 int main() {
