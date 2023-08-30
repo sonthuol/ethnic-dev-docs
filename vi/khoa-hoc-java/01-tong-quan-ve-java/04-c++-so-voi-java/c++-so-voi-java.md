@@ -1,3 +1,15 @@
+<div style="background-color: #e7e9eb; padding: 1px 10px; border-radius: 5px; margin-bottom: 20px">
+
+### Nội dung bài viết
+
+1. [Điểm khác nhau và giống nhau giữa C++ với Java](#diem-khac-nhau-va-giong-nhau-giua-c++-voi-java)
+2. [Ví dụ chương trình C++](#vi-du-chuong-trinh-c++)
+3. [Ví dụ chương trình Java](#vi-du-chuong-trinh-java)
+
+</div>
+
+<div class="section" id="diem-khac-nhau-va-giong-nhau-giua-c++-voi-java"><div>
+
 ## Điểm khác nhau và giống nhau giữa C++ với Java
 
 Có nhiều điểm khác biệt và tương đồng giữa ngôn ngữ lập trình C++ và Java. Dưới đây là danh sách những điểm khác biệt hàng đầu giữa C++ và Java.
@@ -25,7 +37,9 @@ Ghi chú:
 - Ghi chú Java không hỗ trợ các đối số mặc định như C++.
 - Java không hỗ trợ các tệp tiêu đề như C++. Java sử dụng từ khóa import để bao gồm các lớp và phương thức khác nhau.
 
-## C++ Program Example
+<div class="section" id="vi-du-chuong-trinh-c++"><div>
+
+## Ví dụ chương trình C++
 
 File: main.cpp
 
@@ -44,7 +58,9 @@ Kết quả:
 Hello C++ Programming
 ```
 
-## Java Program Example
+<div class="section" id="vi-du-chuong-trinh-java"><div>
+
+## Ví dụ chương trình Java
 
 File: Simple.java
 

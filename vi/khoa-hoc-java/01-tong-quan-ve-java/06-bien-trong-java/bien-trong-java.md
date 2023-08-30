@@ -1,3 +1,29 @@
+<div style="background-color: #e7e9eb; padding: 1px 10px; border-radius: 5px; margin-bottom: 20px">
+
+### Nội dung bài viết
+
+1. [Biến trong Java](#bien-trong-java)
+
+2. [Biến](#bien)
+
+3. [Các loại biến](#cac-loai-bien)
+
+4. [Ví dụ để hiểu về loại biến trong Java](#vi-du-ve-cac-loai-bien)
+
+5. [Ví dụ về biến Java: Tổng 2 số](#tong-hai-so)
+
+6. [Ví dụ về biến Java: Nới rộng (Widening)](#widening)
+
+7. [Ví dụ về biến Java: Ép kiểu [Narrowing (Typecasting)]](#ep-kieu)
+
+8. [Ví dụ về biến Java: Interger Overflow (tràn số nguyên)](#tran-so-nguyen)
+
+9. [Ví dụ về biến Java: Cộng 2 số với kiểu thấp](#cong-hai-so-kieu-thap)
+
+</div>
+
+<div class="section" id="bien-trong-java"><div>
+
 ## Biến trong Java
 
 Một biến là một vùng chứa giá trị trong khi chương trình Java thực thi. Một biến được gán với một kiểu dữ liệu.
@@ -5,6 +31,8 @@ Một biến là một vùng chứa giá trị trong khi chương trình Java th
 Biến là tên của vị trí bộ nhớ. Có ba kiểu biến trong Java: `local`, `instance` và `static`
 
 Có 2 loại kiểu dữ liệu trong Java: Primitive (Nguyên thuỷ) and non-primitive (Không nguyên thuỷ).
+
+<div class="section" id="bien"><div>
 
 ## Biến
 
@@ -15,6 +43,8 @@ Biến là tên của vùng dành riêng được phân bổ trong bộ nhớ. N
 ```java
 int data = 100; // Ở đây data là một biến
 ```
+
+<div class="section" id="cac-loai-bien"><div>
 
 ## Các loại biến
 
@@ -43,7 +73,9 @@ Một biến được khai báo là static được gọi là biến static. Nó
 
 Việc cấp phát bộ nhớ cho các biến tĩnh chỉ xảy ra một lần khi lớp được tải vào bộ nhớ.
 
-## Ví dụ để hiển về loại biến trogn Java
+<div class="section" id="vi-du-ve-cac-loai-bien"><div>
+
+## Ví dụ để hiểu về loại biến trong Java
 
 ```java
 public class Example {
@@ -61,6 +93,8 @@ public class Example {
 }
 
 ```
+
+<div class="section" id="tong-hai-so"><div>
 
 ## Ví dụ về biến Java: Tổng 2 số
 
@@ -82,6 +116,8 @@ Kết quả:
 ```
 20
 ```
+
+<div class="section" id="widening"><div>
 
 ## Ví dụ về biến Java: Nới rộng (Widening)
 
@@ -106,6 +142,8 @@ Kết quả:
 10
 10.0
 ```
+
+<div class="section" id="ep-kieu"><div>
 
 ## Ví dụ về biến Java: Ép kiểu [Narrowing (Typecasting)]
 
@@ -132,6 +170,8 @@ Kết quả:
 10
 ```
 
+<div class="section" id="tran-so-nguyen"><div>
+
 ## Ví dụ về biến Java: Interger Overflow (tràn số nguyên)
 
 Interger Overflow (tràn số nguyên) là một lỗi tràn số học, xảy ra khi kết quả của một phép toán số nguyên không nằm trong giới hạn bộ nhớ. Việc này không dẫn đến lỗi chương trình mà thường đưa ra những kết quả không mong muốn.
@@ -156,6 +196,8 @@ Kết quả:
 130
 -126
 ```
+
+<div class="section" id="cong-hai-so-kieu-thap"><div>
 
 ## Ví dụ về biến Java: Cộng 2 số với kiểu thấp
 

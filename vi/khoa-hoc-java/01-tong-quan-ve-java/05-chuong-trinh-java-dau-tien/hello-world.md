@@ -1,9 +1,25 @@
+<div style="background-color: #e7e9eb; padding: 1px 10px; border-radius: 5px; margin-bottom: 20px">
+
+### Nội dung bài viết
+
+1. [Chương trình Java đầu tiên | ví dụ về Hello World](#hello-world)
+2. [Yêu cầu đối với ví dụ về Java Hello World](#yeu-cau-doi-voi-vi-du-ve-java-hello-world)
+3. [Tạo ví dụ Hello World](#tao-vi-du-hello-world)
+4. [Luồng biên dịch](#luong-bien-dich)
+5. [Các tham số được sử dụng trong Chương trình Java đầu tiên](#cac-tham-so-duoc-duoc-su-dung-trong-chuong-trinh-java-dau-tien)
+
+</div>
+
+<div class="section" id="hello-world"><div>
+
 ## Chương trình Java đầu tiên | ví dụ về Hello World
 
 Trong phần này, chúng ta học viết như thế nào một chương trình Java đầu tiên. Chúng ta có viết một chương trình Hello World đơn giản một cách dễ dàng sau khi chúng ta tải JDK.
 
 Để tạo một chương chương trình Hello World đơn giản, bạn cần phải tạo một class chứa một phương thức main.
 Đầu tiên, chúng ta hãy tìm hiểu hiểu yêu cầu.
+
+<div class="section" id="yeu-cau-doi-voi-vi-du-ve-java-hello-world"><div>
 
 ## Yêu cầu đối với ví dụ về Java Hello World
 
@@ -13,6 +29,8 @@ Trong phần này, chúng ta học viết như thế nào một chương trình 
 - Đặt đường dẫn của thư mục jdk/bin
 - Tạo chương trình Java
 - Biên dịch và chạy chương trình Java
+
+<div class="section" id="tao-vi-du-hello-world"><div>
 
 ## Tạo ví dụ Hello World
 
@@ -46,11 +64,15 @@ Kết quả:
 Hello Java
 ```
 
+<div class="section" id="luong-bien-dich"><div>
+
 ### Luồng biên dịch
 
 Khi chúng ta biên dịch chương trình bằng công cụ Javac, trình biên dịch Java sẽ chuyển đổi thành mã byte.
 
 ![Java Complier](https://prepbytes-misc-images.s3.ap-south-1.amazonaws.com/assets/1679044159052-1-01%20%2811%29.png)
+
+<div class="section" id="cac-tham-so-duoc-duoc-su-dung-trong-chuong-trinh-java-dau-tien"><div>
 
 ## Các tham số được sử dụng trong Chương trình Java đầu tiên
 
