@@ -1,6 +1,21 @@
+<div style="background-color: #e7e9eb; padding: 1px 10px; border-radius: 5px; margin-bottom: 20px">
+
+### Nội dung bài viết
+
+1. [Hệ thống Unicode](#he-thong-unicode)
+2. [Tại sao java sử dụng hệ thống Unicode?](#tai-sao-java-su-dung-he-thong-unicode)
+3. [Vấn đề](#van-de)
+4. [Giải pháp](#giai-phap)
+
+</div>
+
+<div class="section" id="he-thong-unicode"><div>
+
 ## Hệ thống Unicode
 
 Unicode là bảng mã ký tự tiêu chuẩn quốc tế phổ quát có khả năng đại diện cho hầu hết các ngôn ngữ viết trên thế giới.
+
+<div class="section" id="tai-sao-java-su-dung-he-thong-unicode"><div>
 
 ## Tại sao java sử dụng hệ thống Unicode?
 
@@ -11,12 +26,16 @@ Trước Unicode, có nhiều tiêu chuẩn ngôn ngữ:
 - KOI-8 cho tiếng Nga.
 - GB18030 và BIG-5 cho tiếng Trung, v.v.
 
+<div class="section" id="van-de"><div>
+
 ## Vấn đề
 
 Điều này gây ra hai vấn đề:
 
 1. Một giá trị mã cụ thể tương ứng với các chữ cái khác nhau trong các tiêu chuẩn ngôn ngữ khác nhau.
 2. Mã hóa cho các ngôn ngữ có bộ ký tự lớn có độ dài thay đổi. Một số ký tự phổ biến được mã hóa dưới dạng byte đơn, số khác yêu cầu hai byte trở lên.
+
+<div class="section" id="giai-phap"><div>
 
 ## Giải pháp
 
