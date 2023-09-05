@@ -32,9 +32,7 @@ Các kiểu dữ liệu chỉ định các kích thước và giá trị khác n
 
 Trong ngôn ngữ Java, các kiểu dữ liệu nguyên thuỷ là các khối xây dựng của các thao tác dữ liệu. Đây là kiểu dữ liệu cơ bản nhất có sẵn trong ngôn ngữ Java.
 
-```
-Ghi chú: Java là một ngôn ngữ lập trình kiểu tĩnh. Điều đó có nghĩa là tất cả các biến phải được khai báo trước khi sử dụng. Đó là lý do tại sao chúng ta cần phải khai báo kiểu và tên biến.
-```
+`Ghi chú: Java là một ngôn ngữ lập trình kiểu tĩnh. Điều đó có nghĩa là tất cả các biến phải được khai báo trước khi sử dụng. Đó là lý do tại sao chúng ta cần phải khai báo kiểu và tên biến.`
 
 Có 8 loại kiểu dữ liệu nguyên thuỷ:
 
@@ -150,7 +148,7 @@ float f1 = 234.5f
 
 <div class="section" id="kieu-du-lieu-double"><div>
 
-## Kiểu dữ liêu double
+## Kiểu dữ liệu double
 
 Kiểu dữ liệu double là điểm nổi IEEE 754 64-bit có độ chính xác kép. Phạm vi giá trị của nó là không giới hạn. Kiểu dữ liệu double thường được sử dụng cho các giá trị thập phân giống như float. Kiểu dữ liệu double cũng không bao giờ được sử dụng cho các giá trị chính xác, chẳng hạn như tiền tệ. Giá trị mặc định của nó là 0,0d.
 
@@ -162,7 +160,7 @@ double d1 = 12.3
 
 <div class="section" id="kieu-du-lieu-char"><div>
 
-## Kiểu dữ liêu char
+## Kiểu dữ liệu char
 
 Kiểu dữ liệu char là một ký tự Unicode 16 bit. Phạm vi giá trị của nó nằm trong khoảng từ '\u0000' (hoặc 0) đến '\uffff' (hoặc bao gồm 65.535). Kiểu dữ liệu char được sử dụng để lưu trữ các ký tự.
 
