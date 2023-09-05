@@ -3,21 +3,13 @@
 ### Nội dung bài viết
 
 1. [Biến trong Java](#bien-trong-java)
-
 2. [Biến](#bien)
-
 3. [Các loại biến](#cac-loai-bien)
-
 4. [Ví dụ để hiểu về loại biến trong Java](#vi-du-ve-cac-loai-bien)
-
 5. [Ví dụ về biến Java: Tổng 2 số](#tong-hai-so)
-
 6. [Ví dụ về biến Java: Nới rộng (Widening)](#widening)
-
 7. [Ví dụ về biến Java: Ép kiểu [Narrowing (Typecasting)]](#ep-kieu)
-
 8. [Ví dụ về biến Java: Interger Overflow (tràn số nguyên)](#tran-so-nguyen)
-
 9. [Ví dụ về biến Java: Cộng 2 số với kiểu thấp](#cong-hai-so-kieu-thap)
 
 </div>
