@@ -1,3 +1,18 @@
+<div style="background-color: #e7e9eb; padding: 1px 10px; border-radius: 5px; margin-bottom: 20px">
+
+### Nội dung bài viết
+
+1. [Câu lệnh điều khiển | Kiểm soát mã luồng trong java](#cau-lenh-dieu-khien)
+2. [Câu lệnh if](#cau-lenh-if)
+3. [Câu lệnh switch](#cau-lenh-switch)
+4. [Câu lệnh vòng lặp](#cau-lenh-vong-lap)
+5. [Câu lệnh break](#cau-lenh-break)
+6. [Câu lệnh continue](#cau-lenh-continue)
+
+</div>
+
+<div class="section" id="cau-lenh-dieu-khien"><div>
+
 ## Câu lệnh điều khiển | Kiểm soát mã luồng trong java
 
 Trình biên dịch Java thực thị code từ trên xuống dưới. Các câu lệnh trong code được thực thi theo thứ tự chúng xuất hiện. Tuy nhiên, Java cung cấp các câu lệnh có thể được sử dụng để kiểm soát mã luồng trong Java. Những câu lệnh như vậy được gọi là câu lệnh luồng điều khiển. Đây là một trong những tính năng cơ bản của Java, giúp chương trình chạy trơn tru.
@@ -24,6 +39,8 @@ Java cung cấp ba loại câu lệnh luồng điều khiển
 ## Tuyết bộ ra quyết định (Decisison makring statements)
 
 Như tên cho thấy, các câu lệnh ra quyết định sẽ quyết định câu lệnh nào sẽ được thực thi và được thực thi khi nào.
+
+<div class="section" id="cau-lenh-if"><div>
 
 ## Câu lệnh if (if statements)
 
@@ -198,6 +215,8 @@ Kết quả:
 Delhi
 ```
 
+<div class="section" id="cau-lenh-switch"><div>
+
 ## Câu lệnh switch
 
 Trong Java, câu lệnh switch thì tương tự như câu lệnh if-else-if. Câu lệnh switch chưa nhiều khối code hay còn gọi là các trường hợp (case) và trong mỗi trường hợp thì được thực thi dựa trên biến mà được chuyển đổi. Câu lệnh switch thì dễ dàng sử dụng thay vì sử dụng câu lệnh if-else-if. Nó cũng tăng cường khả năng đọc của chương trình.
@@ -258,6 +277,8 @@ Kết quả:
 ```
 
 Trong khi sử dụng câu lệnh switch, chúng ta phải lưu ý rằng biểu thức case sẽ có cùng loại với biến. Tuy nhiên, nó cũng sẽ là một giá trị không đổi. Switch chỉ cho phép sử dụng các biến kiểu int, string và Enum.
+
+<div class="section" id="cau-lenh-vong-lap"><div>
 
 ## Câu lệnh vòng lặp
 
@@ -451,6 +472,8 @@ Câu lệnh nhảy được sử dụng để chuyển quyền điều khiển c
 
 Có hai loại câu lệnh nhảy trong Java, tức là `break` và `continue`.
 
+<div class="section" id="cau-lenh-break"><div>
+
 ### Câu lệnh break
 
 Như tên cho thấy, câu lệnh break được sử dụng để ngắt luồng hiện tại của chương trình và chuyển điều khiển sang câu lệnh tiếp theo bên ngoài câu lệnh vòng lặp hoặc câu lệnh switch. Tuy nhiên, nó chỉ phá vỡ vòng lặp bên trong trong trường hợp vòng lặp lồng nhau.
@@ -525,6 +548,8 @@ Kết quả:
 4
 5
 ```
+
+<div class="section" id="cau-lenh-continue"><div>
 
 ### Câu lệnh continue
 
